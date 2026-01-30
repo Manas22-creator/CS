@@ -9,14 +9,14 @@ iii. Windows Command Line Utilities
   Tracert using Ping    
   Tracert    
   NSLookup    
- iv. Website Copier Tool – HTTrack 
-v. Metasploit (for information gathering) 
-vi. Whois Lookup Tools for Mobile – DNS Tools, Whois, Ultra 
-Tools Mobile 
-vii. Smart Whois 
-viii. eMailTracker Pro 
-ix. Tools for Mobile – Network Scanner, Fing – Network Tool, 
-Network Discovery Tool, Port Droid Tool 
+ iv. Website Copier Tool – HTTrack   
+v. Metasploit (for information gathering)   
+vi. Whois Lookup Tools for Mobile – DNS Tools, Whois, Ultra   
+Tools Mobile   
+vii. Smart Whois   
+viii. eMailTracker Pro   
+ix. Tools for Mobile – Network Scanner, Fing – Network Tool,   
+Network Discovery Tool, Port Droid Tool  
    
  B. Scan the network using the following tools:    
  i. Hping2 / Hping3 
